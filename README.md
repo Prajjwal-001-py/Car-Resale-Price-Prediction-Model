@@ -1,6 +1,6 @@
 # Car-Resale-Price-Prediction-Model
 
-A linear regression model to predict the car's resale value using some features of the car as input  made using closed form solution.
+A Multi regression model to predict the car's resale value using some features of the car as input  made using closed form solution.
 
 Tools used:
 
@@ -20,7 +20,7 @@ Scaling of the input data using z-score normalisation
 Adding bias columns in the input scaled array to get the intercept  
 Applying closed form solution to get the parametric array  
 Formation of function for Prediction of Resale Price  
-Testing of the data
+Testing of the Model
 
 Problems:
 
